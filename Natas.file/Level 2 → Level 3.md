@@ -1,13 +1,10 @@
-Kaynak kodunda /files/ dizinine işaret eden bir bağlantı var.
+Kullanıcı Adı: natas2
+Şifre: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
 
-Çözüm:
+Çözüm Yöntemi: Kaynak kodda /files/ dizinine işaret eden bir bağlantı bulunur. Bu dizine erişip users.txt dosyasını okuyun.
 
-Level 2 sayfasının kaynak kodunu görüntüle (Ctrl+U).
+Bir Sonraki Seviye:
 
-İçinde /files/ dizinine giden bir referans bulunuyor.
+Kullanıcı Adı: natas3
 
-Tarayıcıya http://natas2.natas.labs.overthewire.org/files/ yaz.
-
-Dizin içinde users.txt dosyası çıkıyor.
-
-Bu dosyayı aç, içinde Level 3'ün şifresi yazıyor.
+Şifre: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
