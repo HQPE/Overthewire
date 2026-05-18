@@ -1,14 +1,12 @@
-Çözüm:
+Kullanıcı Adı: natas0
+Şifre: natas0
 
-Level 0 sayfasında ekranda yazan şifreyi al
+Çözüm Yöntemi: Sayfaya giriş yapın ve kaynak kodunu (Ctrl+U veya F12) görüntüleyin. Yorum satırlarının içinde bir sonraki seviyenin şifresi yer alır.
 
-http://natas1.natas.labs.overthewire.org adresine git
+Bir Sonraki Seviye:
 
-Kullanıcı adı: natas1
-Şifre: Level 0'da bulduğun şifre
+Kullanıcı Adı: natas1
 
-Kullanıcı adı	natas1
-Şifre	gtVrDuiDfck831PqWsLEZy5gyDz1clto
-
+Şifre: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 
 <img width="798" height="525" alt="image" src="https://github.com/user-attachments/assets/a17b1d02-3fd2-4c4a-8b63-4d8a49cfaa6e" />
