@@ -1,11 +1,10 @@
-Çözüm:
+Kullanıcı Adı: natas3
+Şifre: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 
-http://natas3.natas.labs.overthewire.org/robots.txt adresine git.
+Çözüm Yöntemi: robots.txt dosyasını kontrol edin. Disallow: /s3cr3t/ yönergesini bulup bu dizine erişin ve içindeki users.txt dosyasından şifreyi alın.
 
-İçinde Disallow: /s3cr3t/ yazıyor.
+Bir Sonraki Seviye:
 
-http://natas3.natas.labs.overthewire.org/s3cr3t/ dizinine gir.
+Kullanıcı Adı: natas4
 
-Dizin içinde users.txt dosyası var.
-
-Dosyayı aç, Level 4'ün şifresini bul.
+Şifre: QryZXc2e0MzhahLdHrtHxzyYkj59kUxLQ
