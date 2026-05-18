@@ -1,7 +1,10 @@
-Çözüm:
+Kullanıcı Adı: natas1
+Şifre: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 
-F12 ile Geliştirici Araçları'nı aç veya Ctrl+U (View Source) kullan.
+Çözüm Yöntemi: Sağ tık engeline rağmen klavye kısayolu (Ctrl+U) ile kaynak koda erişin. Yorum satırlarında şifreyi bulacaksınız.
 
-Sağ tık engeli sadece fare içindir, klavye kısayolları çalışır.
+Bir Sonraki Seviye:
 
-Kaynak kodun içinde <!-- --> yorum satırı arasında şifre gizlenmiş.
+Kullanıcı Adı: natas2
+
+Şifre: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi
