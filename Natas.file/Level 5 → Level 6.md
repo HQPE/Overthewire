@@ -4,6 +4,8 @@ Access disallowed. You are not logged in
 
 
 <img width="847" height="671" alt="image" src="https://github.com/user-attachments/assets/6cb26ecc-6a7c-4913-9fe6-43b2b65a55fe" />
+
+
 Sebep:
 Sunucu, kullanıcının giriş yapıp yapmadığını bir cookie (loggedin) üzerinden kontrol ediyor. Varsayılan değeri 0 olduğu için sistem seni oturum açmamış sayıyor.
 
